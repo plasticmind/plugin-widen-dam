@@ -1,0 +1,14 @@
+{
+    "name": "plasticmind/plugin-widen-dam",
+    "description": "Search and add Widen digital assets to your WordPress media library.",
+    "type": "wordpress-plugin",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "composer/installers": "^1.0"
+    },
+    "license": "GPL-2.0+",
+    "authors": [{
+        "name": "Widen"
+    }]
+}
